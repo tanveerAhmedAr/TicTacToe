@@ -46,7 +46,12 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. T
 
 ## Screenshots
 
-*(Add screenshots here)*
+![Screenshot 1](ScreenShots/Screenshot 2025-03-02 124030.png)
+![Screenshot 2](ScreenShots/Screenshot 2025-03-02 124101.png)
+![Screenshot 3](ScreenShots/Screenshot 2025-03-02 124127.png)
+![Screenshot 4](ScreenShots/Screenshot 2025-03-02 124245.png)
+![Screenshot 5](ScreenShots/Screenshot 2025-03-02 124302.png)
+
 
 ## Future Enhancements
 
