@@ -56,11 +56,11 @@ Screenshots of the game are available in the **ScreenShots/** folder.
 
 
 
-## Future Enhancements
+<!-- ## Future Enhancements
 
 - Add AI-based single-player mode.
 - Improve animations and UI design.
-- Implement a scoreboard tracking wins and losses.
+- Implement a scoreboard tracking wins and losses. -->
 
 ## Author
 
